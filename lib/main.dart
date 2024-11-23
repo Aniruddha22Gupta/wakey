@@ -447,7 +447,7 @@ class LandingScreen extends StatefulWidget {
 
 class _LandingScreenState extends State<LandingScreen> {
 
-  String selectedPage = '';
+  String selectedPage = "";
   String appBarTitle = "";
   
   List appBarTitleList = ["Home", "Alarm", "Clocks", "World Clock", "User"];
